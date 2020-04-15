@@ -1,0 +1,1 @@
+const String BASE_URL = "https://newsapi.org/v2/top-headlines?country=in&apiKey=38ef6649245b43e68079cede9ef68268";
